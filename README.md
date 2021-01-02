@@ -1,4 +1,4 @@
-# Titanic_Dataset_Analysis
+# Titanic Dataset Analysis
 ## Introduction
 This project has been developed for an assignment on the subject "Tipologia i cicle de vida de les dades" from the Data Science Master's Degree on UOC (Open University of Catalonia). The goal is to analyse in depth a known dataset from Kaggle. In this case, I will analyze the famous [Titanic dataset](https://www.kaggle.com/c/titanic/data), available at Kaggle.
 
